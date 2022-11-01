@@ -1,10 +1,10 @@
 # Basic information
-baseURL = 'https://taixhi.github.io/website-template' # Should be updated to your domain
+baseURL = 'https://arlethandrea.github.io/website-template' # Should be updated to your domain
 languageCode = 'en-us'
 theme="archie"
 
 # Metadata to edit
-title = 'Austin'
+title = 'Arleth Rodrigues'
 copyright = "© Austin"
 blogTitle='Check out my blog:'
 
